@@ -1,0 +1,26 @@
+body {
+	 background-image: url(./image/bg.jpg);
+	background-position: center; 
+}
+
+h1 {
+	text-align: center;
+	color: rgb(20, 20, 187);
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: large;
+}
+
+#over {
+	/* background-color: rgb(23, 29, 29); */
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+#img {
+	width: 100%;
+	height: 100%;
+	box-shadow: 10px 10px 15px rgb(148, 248, 243);
+}
